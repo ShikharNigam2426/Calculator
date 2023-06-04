@@ -1,0 +1,29 @@
+/* .btn-width{
+    max-width: fit-content!important;
+}
+
+.container{
+    width: 10%!important;
+} */
+
+.btn{
+    margin-left: 0.6rem!important;
+    width: 50px!important;
+}
+body{
+    height: 100%;
+}
+
+.container{
+    height: 90vh;
+}
+
+
+
+.answerArea{
+    border: 0px solid transparent;
+    width: 227px;
+    padding: 0px 3px 0px 3px;
+    height: 36px;
+    margin: 0px 0px 11px 9px;
+}
